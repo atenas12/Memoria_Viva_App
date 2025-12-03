@@ -1,1 +1,0 @@
-// Tela de detalhes do Idoso

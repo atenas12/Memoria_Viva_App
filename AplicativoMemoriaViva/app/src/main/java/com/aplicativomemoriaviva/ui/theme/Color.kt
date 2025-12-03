@@ -1,1 +1,0 @@
-// Definições de cores do tema

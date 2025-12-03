@@ -1,1 +1,0 @@
-// Tela de detalhes da Medicação

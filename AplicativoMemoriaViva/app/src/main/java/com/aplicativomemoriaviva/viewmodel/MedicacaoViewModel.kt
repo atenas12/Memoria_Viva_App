@@ -1,1 +1,0 @@
-// ViewModel para Medicação

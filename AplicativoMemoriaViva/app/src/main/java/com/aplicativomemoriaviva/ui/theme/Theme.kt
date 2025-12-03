@@ -1,1 +1,0 @@
-// Configuração do tema principal (Compose)
